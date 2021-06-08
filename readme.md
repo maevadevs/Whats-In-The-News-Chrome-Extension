@@ -1,6 +1,6 @@
 # What's In The News - Chrome Extension
 
-This is a Chrome Extension accompagnying the ML solutioon for News Articles Classification and Summarization, *What's In The News*. Currently, it is not available in Google Chrome store and has to be manually installed.
+This is a Chrome Extension accompagnying the ML solution for News Articles Classification and Summarization, *What's In The News*. Currently, it is not available in Google Chrome store and has to be manually installed.
 
 To install this extension:
 
