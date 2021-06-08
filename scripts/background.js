@@ -18,7 +18,7 @@
 // 3 - background.js listens for open_new_tab 
 //     and opens a new tab with the given URL when it receives the message.
 
-appUrl = "http://localhost:8501"
+appUrl = "http://ec2-3-17-69-84.us-east-2.compute.amazonaws.com:8501"
 
 /**
  * 1 - Browser Action Click Listener
